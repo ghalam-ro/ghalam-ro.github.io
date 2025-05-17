@@ -1,0 +1,23 @@
+*{
+    font-family: iran-sans;
+}
+
+.font-size-1{
+    font-size: 1.3rem;
+}
+
+.w-50{
+    width: 50%;
+}
+
+.w-60{
+    width: 60%;
+}
+
+.margin-bottom-7{
+    margin-bottom: 1.7rem;
+}
+
+.text-bold{
+    font-weight: 900;
+}
