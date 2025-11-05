@@ -1,0 +1,20 @@
+:root {
+  --blg-color-primary600: #2c3a4a;  /* Primary 600 Color */
+  --blg-color-primary500: #3a4654;  /* Primary 500 Color */
+  --blg-color-primary400: #dbe3ea;  /* Primary 400 Color */
+  --blg-color-primary300: #78818d;  /* Primary 300 Color */
+  --blg-color-primary200: #aeb3bb;  /* Primary 200 Color */
+  --blg-color-primary100: #e9eef2;  /* Primary 100 Color */
+
+  --blg-color-secondary200: #ff8a00;  /* Secondary 200 Color */
+  --blg-color-secondary100: #f4c793;  /* Secondary 100 Color */
+  --blg-bg-footer: var(--blg-color-primary500);  /* Footer Background */
+
+  --blg-site-width: 1300px;  /* Site Width */
+  --blg-max-logo-width: 150px;  /* Max Logo Width */
+  --blg-max-header-height: 110px;  /* Max Header Height */
+
+  --blg-font-primary: IRANSansX;
+  --blg-font-secondary: YekanBakh;
+  --blg-font-heading: Pinar;
+}
